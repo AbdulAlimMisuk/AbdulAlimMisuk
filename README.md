@@ -146,7 +146,7 @@ Here are some of the projects I've built. Click to expand!
   
   <br><br>
   
-  **➡️ [GitHub](#) | ➡️ [Live Link](#)** </details>
+  **➡️ [GitHub]("https://github.com/AbdulAlim35/Education-Management-System-EMS-") | ➡️ [Live Link](#)** </details>
 
 ---
 
