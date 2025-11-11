@@ -35,10 +35,8 @@
 
 ### 📊 My GitHub Stats
 
-<div align="center">
-  <a href="https://github.com/AbdulAlimMisuk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AbdulAlimMisuk&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Abdul Alim's GitHub Stats" />
-  </a>
+
+
   
 
   
