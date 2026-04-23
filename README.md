@@ -5,10 +5,10 @@
 </div>
 
 <div align="center">
-  <a href="https://linkedin.com/in/abdul-alim" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-alim-ab465633a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://github.com/AbdulAlim35" target="_blank">
+  <a href="https://github.com/AbdulAlimMisuk" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:abdulalimmisuk@gmail.com">
