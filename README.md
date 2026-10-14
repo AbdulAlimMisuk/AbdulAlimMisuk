@@ -1,6 +1,6 @@
 <div align="center">
   <a href="httpsm://github.com/AbdulAlimMisuk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+I'm+Abdul+Alim+👋;I'm+a+Full+Stack+Developer;I+build+responsive+web+apps;I+love+Laravel+%26+React" alt="Animated typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+I'm+Abdul+Alim+👋;I'm+a+Full+Stack+Developer;I+build+web+apps;I+love+Laravel+%26+React" alt="Animated typing text" />
   </a>
 </div>
 
@@ -29,26 +29,7 @@ On the backend, I use PHP, Laravel, and MySQL to handle application logic, manag
 
 I enjoy learning new things, solving problems, and improving my coding skills through hands-on practice. I'm always looking for opportunities to learn, grow, and build useful applications that make a difference.
 ---
-### 📈 Profile Views
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbdulAlimMisuk&label=Profile+Visitors&color=00FF00&style=for-the-badge" alt="profile-views" />
-</div>
-
-
-### 📊 My GitHub Stats
-
-
-
-  
-
-  
-  <a href="https://github.com/AbdulAlimMisuk">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulAlimMisuk&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-  </a>
-</div>
-
----
 
 ### 🛠️ My Tech Stack
 
