@@ -23,11 +23,8 @@
 
 ### 👨‍💻 About Me
 
-> Hi, I'm Abdul Alim, a Full Stack Developer who enjoys building websites and web applications. I work with technologies like HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS to create responsive and user-friendly interfaces.
+> Hi, I'm Abdul Alim, a Full Stack Developer who enjoys building websites and web applications. I work with technologies like HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS to create responsive and user-friendly interfaces.On the backend, I use PHP, Laravel, and MySQL to handle application logic, manage data, and build REST APIs. I also have experience working with API integration, authentication, and CRUD operations.I enjoy learning new things, solving problems, and improving my coding skills through hands-on practice. I'm always looking for opportunities to learn, grow, and build useful applications that make a difference.
 
-On the backend, I use PHP, Laravel, and MySQL to handle application logic, manage data, and build REST APIs. I also have experience working with API integration, authentication, and CRUD operations.
-
-I enjoy learning new things, solving problems, and improving my coding skills through hands-on practice. I'm always looking for opportunities to learn, grow, and build useful applications that make a difference.
 ---
 
 
