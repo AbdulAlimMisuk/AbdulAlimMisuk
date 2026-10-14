@@ -1,6 +1,6 @@
 <div align="center">
   <a href="httpsm://github.com/AbdulAlimMisuk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+I'm+Abdul+Alim+👋;I'm+a+Frontend+Developer;I+build+responsive+web+apps;I+love+React+%26+Tailwind+CSS" alt="Animated typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+I'm+Abdul+Alim+👋;I'm+a+Full+Stack+Developer;I+build+responsive+web+apps;I+love+Laravel+%26+React" alt="Animated typing text" />
   </a>
 </div>
 
@@ -23,8 +23,11 @@
 
 ### 👨‍💻 About Me
 
-> As a **Frontend Developer**, I have a solid foundation in HTML, CSS, JavaScript, and React. I focus on building **responsive and user-friendly** web applications using **Tailwind CSS** and **React Router** for smooth navigation. I have developed projects like Blog Management, Restaurant Management, and Education Management Systems with **REST API** integration for dynamic data handling. I am skilled in Git/GitHub for version control and always eager to learn, collaborate, and contribute to impactful development projects.
+> Hi, I'm Abdul Alim, a Full Stack Developer who enjoys building websites and web applications. I work with technologies like HTML, CSS, JavaScript, React, Next.js, and Tailwind CSS to create responsive and user-friendly interfaces.
 
+On the backend, I use PHP, Laravel, and MySQL to handle application logic, manage data, and build REST APIs. I also have experience working with API integration, authentication, and CRUD operations.
+
+I enjoy learning new things, solving problems, and improving my coding skills through hands-on practice. I'm always looking for opportunities to learn, grow, and build useful applications that make a difference.
 ---
 ### 📈 Profile Views
 
@@ -66,6 +69,9 @@ Here are the technologies and tools I work with:
 
 #### ☁️ Backend & Database
 <p align="left">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
   <img src="https://img.shields.io/badge/Appwrite-F02E65?style=for-the-badge&logo=appwrite&logoColor=white" alt="Appwrite"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
@@ -79,74 +85,5 @@ Here are the technologies and tools I work with:
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
-
----
-
-### 🚀 My Personal Projects
-
-Here are some of the projects I've built. Click to expand!
-
-<details>
-  <summary>
-    <strong>🎓 Education Management Dashboard</strong>
-  </summary>
-  
-  <br>
-  
-  <p>
-    Built a single-page frontend dashboard using React with a scalable folder structure following SOLID principles. Developed a responsive admin panel to manage students, teachers, classes, and subjects. Integrated REST APIs for full CRUD operations.
-  </p>
-  
-  **Tech:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/REST_API-000000?style=flat-square&logo=api&logoColor=white" alt="REST API"/>
-  
-  <br><br>
-  
-  **➡️ [GitHub](https://github.com/AbdulAlim35/Education-Management-System-EMS-) | ➡️ [Live Link](https://educations-management.netlify.app)** </details>
-
-<details>
-  <summary>
-    <strong>🍽️ Add & Dine — Restaurant Management Website</strong>
-  </summary>
-  
-  <br>
-  
-  <p>
-    Engineered a fully responsive SPA with an intuitive Admin Panel to manage menu items, gallery visuals, and table reservations in real time. Crafted a modern, accessible UI with Tailwind CSS and used Appwrite for backend services.
-  </p>
-  
-  **Tech:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite"/>
-  
-  <br><br>
-  
-  **➡️ [GitHub](https://github.com/AbdulAlim35/Adda-Dine-Restaurant) | ➡️ [Live Link](https://resturentsystem.netlify.app)** </details>
-
-<details>
-  <summary>
-    <strong>✍️ BrightEra — Blog Management Platform</strong>
-  </summary>
-  
-  <br>
-  
-  <p>
-    Developed a responsive SPA using React Router for dynamic rendering. Implemented a full Admin Panel for real-time CRUD management of categorized posts and integrated search functionality.
-  </p>
-  
-  **Tech:** <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React_Router-CA4245?style=flat-square&logo=reactrouter&logoColor=white" alt="React Router"/>
-  <img src="https://img.shields.io/badge/Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" alt="Appwrite"/>
-  
-  <br><br>
-  
-  **➡️ [GitHub](https://github.com/AbdulAlim35/BrightEra-Blog) | ➡️ [Live Link](https://brightera.netlify.app)** </details>
-
----
-
 
 
