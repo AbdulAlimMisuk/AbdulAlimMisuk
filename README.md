@@ -1,6 +1,6 @@
 <div align="center">
   <a href="httpsm://github.com/AbdulAlimMisuk">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+Im+Abdul+Alim+ I'm+a+Full+Stack+Developer;I+build+web+apps;I+love+Laravel+%26+React" alt="Animated typing text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&center=true&width=500&lines=Hi+there%2C+Im+Abdul+Alim+Im+a+Full+Stack+Developer;I+build+web+apps;I+love+Laravel+%26+React" alt="Animated typing text" />
   </a>
 </div>
 
